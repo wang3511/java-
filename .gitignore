@@ -1,0 +1,11 @@
+# IDEA
+.idea/
+*.iml
+
+# 编译输出
+out/
+*.class
+
+# 系统文件
+.DS_Store
+Thumbs.db
